@@ -1,0 +1,6 @@
+fiscal_year,period_end,revenue_m,company_operated_revenue_m,licensed_revenue_m,other_revenue_m,operating_income_m,net_earnings_m,stores,capex_m,us_rewards_active_m,global_comp_pct,global_transactions_pct,global_ticket_pct,na_comp_pct,na_transactions_pct,na_ticket_pct,china_comp_pct,china_transactions_pct,china_ticket_pct,operating_margin_pct,revenue_growth_pct,operating_income_growth_pct,store_growth_pct,revenue_per_store_m,product_distribution_cost_m,store_operating_expense_m,g_and_a_m,restructuring_impairment_m
+2021,2021-10-03,29060.6,24607.0,2683.6,1770.0,4872.1,4200.3,33833,2300.0,24.8,,,,,,,,,,16.77,,,,0.8587,8738.7,11930.9,1932.6,170.4
+2022,2022-10-02,32250.3,26576.1,3655.5,2018.7,4617.8,3283.4,35711,2800.0,,,,,,,,,,,14.32,,,,0.9031,10317.4,13561.8,2032.0,46.0
+2023,2023-10-01,35975.6,29462.3,4512.7,2000.6,5870.8,4124.7,38038,2330.0,32.6,8.0,3.0,5.0,9.0,3.0,6.0,2.0,4.0,-2.0,16.32,11.55,27.13,6.51,0.9458,11409.1,14720.3,2441.3,21.8
+2024,2024-09-29,36176.2,29765.9,4505.1,1905.2,5408.8,3762.3,40199,2780.0,33.8,-2.0,-4.0,2.0,-2.0,-5.0,4.0,-8.0,,,14.95,0.56,-7.87,5.68,0.8999,11180.6,15286.5,2523.3,0.0
+2025,2025-09-28,37184.4,30744.8,4350.4,2089.2,2936.6,1856.7,40990,2310.0,,-1.0,-2.0,1.0,-2.0,-4.0,2.0,-1.0,4.0,-5.0,7.9,2.79,-45.71,1.97,0.9071,11658.2,17058.9,2617.2,892.0
